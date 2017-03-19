@@ -1,0 +1,1 @@
+cp -f themes/next/_config.yml themes/theme_setting_next/;hexo clean;hexo g;hexo s;
